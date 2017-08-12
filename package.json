@@ -1,0 +1,30 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "My first Node.js and Express project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enemeth79/express-workshop.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "nodegirlsbne",
+    "firstproject"
+  ],
+  "author": "Erzsebet Nemeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enemeth79/express-workshop/issues"
+  },
+  "homepage": "https://github.com/enemeth79/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-formidable": "^1.0.0",
+    "jquery": "^3.2.1"
+  }
+}
